@@ -1,4 +1,4 @@
-### Intermediate SQL (Course 2)
+## Intermediate SQL (Course 2)
 This is the documentation for the "Intermediate SQL" course I completed as part of the [Associate Data Analyst in SQL Career Track](https://app.datacamp.com/learn/career-tracks/associate-data-analyst-in-sql) on DataCamp.
 
 ### Course Overview
